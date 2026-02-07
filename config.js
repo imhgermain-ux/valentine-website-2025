@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://open.spotify.com/track/1OQ3PoRZRtE7RH0NIh3p1O?si=11336e7ef1fb4270", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dnqcy59aw/video/upload/v1770424064/MV_10CM_-_%EC%84%9C%EB%9E%8D____%EA%B7%B8_%ED%95%B4_%EC%9A%B0%EB%A6%AC%EB%8A%94_Our_Beloved_Summer_OST_Part.1_nqorz2.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.5                        // Volume level (0.0 to 1.0)
